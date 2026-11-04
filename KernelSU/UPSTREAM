@@ -1,0 +1,6 @@
+SukiSU-Ultra (builtin)
+upstream: https://github.com/SukiSU-Ultra/SukiSU-Ultra
+branch:   builtin
+describe: v4.2.1-873-g1cfa5734
+commit:   1cfa57340590971cba7521ed536da8ebbedc5f0a
+subject:  kernel: Fix mount_hide crash and support pre-5.10 kernels
